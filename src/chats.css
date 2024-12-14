@@ -55,7 +55,6 @@
   color: #fff;
 }
 
-
 .chat-form {
   padding: 15px;
 }
@@ -74,3 +73,9 @@
 .btn:focus {
   box-shadow: none;
 }
+
+.cht-msg {
+  max-height: 300px;
+  overflow: auto;
+}
+
